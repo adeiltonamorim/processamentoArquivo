@@ -1,6 +1,7 @@
 # processamentoArquivo
 
 # Solução de micro serviços para processamento de arquivos
+OBS.: Nesse primeiro momento, não está sendo utilizado o eureka e o zuul. Estes seriam para uma futura interface que pudessem disponibilizar relatórios, arquivos, etc.
 
 # Tecnologias
 - Java 11
